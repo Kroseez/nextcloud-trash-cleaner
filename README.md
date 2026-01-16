@@ -108,4 +108,4 @@ MIT License. Используйте, модифицируйте, ломайте 
 ## 👤 Автор / Author
 
 **Kroseez**
-System Administrator / Developer
+System Administrator / Enthusiast
